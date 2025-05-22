@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv/
+*venv/
+
+# Local configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.local.json
+
+# Logs
+logs/
+*.log
+system_analysis_*.log
+
+# Data files
+data/
+*.json
+*.db
+*.sqlite3
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Browser drivers for Selenium
+*.exe
+chromedriver
+geckodriver
+
+# Compiled shell scripts
+*.sh.x
+
+# Temporary files
+*.tmp
+*.bak
+
